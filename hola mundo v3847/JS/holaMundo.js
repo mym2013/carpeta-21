@@ -16,4 +16,5 @@ console.log("hola deade la consola");
 
 alert("bien venidos al curso de JS");
 alert("hola amigos comenzar"); 
+alert("retomar codigo despues de un tiempo es interesante")
     
